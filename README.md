@@ -20,9 +20,7 @@
 **Languages:** Python (primary), C basics, SQL  
 **Core CS:** DSA, OOPs, OS, DBMS, CN  
 **AI/ML:** OpenCV, YOLO v8, NumPy, Pandas  
-**Backend:** Flask / FastAPI  
-**Databases:** PostgreSQL, MongoDB  
-**Tools:** Git, APIs, Linux  
+**Tools:** Git, Vs code  
 
 ---
 
